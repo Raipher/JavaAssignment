@@ -1,0 +1,4 @@
+2;1;1;1;1;Course Adminstractor;true
+3;123;1123;123;123;Course Adminstractor;true
+4;test;test;1234;test;Course Adminstractor;true
+1;admin;Admin User;admin123;admin@example.com;Course Adminstractor;true
